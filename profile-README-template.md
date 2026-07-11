@@ -19,7 +19,7 @@
 
 Building practical AI products, mobile applications, and automation tools that solve real-world problems.
 
-[Portfolio](https://eswar.me) / [LinkedIn](https://linkedin.com/in/eswar-balu28) / [Email](mailto:eswarbalu28@gmail.com)
+[Portfolio](https://eswar.me) / [LinkedIn](https://www.linkedin.com/in/eswar-balu28) / [Email](mailto:eswarbalu28@gmail.com)
 
 <br>
 
